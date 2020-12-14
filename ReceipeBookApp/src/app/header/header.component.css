@@ -6,3 +6,6 @@ li {
   font-size: x-large;
   font-style: italic;
 }
+a {
+  padding-top: 10px;
+}
